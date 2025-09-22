@@ -124,7 +124,7 @@ const navConfig: navItem[] = [
 	// 	],
 	// },
 	{
-		text: "Projects",
+		text: "Project",
 		link: "/projects/",
 	},
 	// {
@@ -132,7 +132,7 @@ const navConfig: navItem[] = [
 	// 	link: "/notes/",
 	// },
 	{
-		text: "Reading Notes",
+		text: "Blog",
 		link: "/blog/",
 	},
 	{

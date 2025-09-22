@@ -5,14 +5,14 @@ const siteData: SiteDataProps = {
 	name: "VitoDing",
 	// Your website's title and description (meta fields)
 	title:
-		"VitoDing - XXX",
+		"VitoDing - Seek truth from facts",
 	description:
-		"Get your new startup website up and running quickly with our beautiful website theme designed using Astro v5 and Tailwind CSS v4. Perfect for freelancers, developers, startups, and personal use.",
+		"A website for Vito's personal use, showcasing his research and exploration of technology, business and investment.",
 
 	// Your information for blog post purposes
 	author: {
-		name: "Cosmic Themes",
-		email: "creator@cosmicthemes.com",
+		name: "Vito DING",
+		email: "haoran.ding@yahoo.com",
 		twitter: "Cosmic_Themes",
 	},
 
