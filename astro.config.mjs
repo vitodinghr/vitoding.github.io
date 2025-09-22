@@ -2,7 +2,7 @@ import mdx from "@astrojs/mdx";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 // import netlify from "@astrojs/netlify";
-import vercel from "@astrojs/vercel/serverless";
+import vercel from "@astrojs/vercel";
 import keystatic from "@keystatic/astro";
 import compress from "@playform/compress";
 import tailwindcss from "@tailwindcss/vite";
@@ -14,6 +14,7 @@ import icon from "astro-icon";
 // https://astro.build/config
 export default defineConfig({
 	site: "https://vitoding.guru",
+	output: 'server',
 	adapter: vercel({
     imageService: false,
   	}),
