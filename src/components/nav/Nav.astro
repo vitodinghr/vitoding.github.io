@@ -4,6 +4,7 @@ import LanguageSelect from "@components/language-select/LanguageSelect.astro";
 import MobileNav from "@components/nav/MobileNav/MobileNav.astro";
 import NavDropdownToggle from "@components/nav/NavDropdown/NavDropdownToggle.astro";
 import NavLink from "@components/nav/NavLink.astro";
+import Search from "@components/Search/Search.astro";
 import SiteLogo from "@components/site-logo/SiteLogo.astro";
 import ThemeToggle from "@components/theme-toggle/ThemeToggle.astro";
 import { getLocaleFromUrl } from "@js/localeUtils";
@@ -56,13 +57,15 @@ import { locales } from "@config/siteSettings.json";
 						</nav>
 						<div class="hidden items-center gap-2 md:flex">
 							<!-- don't forget to also update the button in MobileNav.astro! -->
-							<Button
+							<!-- <Button
 								variant="primary"
 								href="https://cosmicthemes.com/themes/voyager"
 								class="px-4 py-2 whitespace-nowrap">Get Voyager</Button
-							>
+							> -->
 
 							<ThemeToggle class="" />
+
+							<Search class="md:ml-2" />
 
 							{locales.length > 1 && <LanguageSelect class="" />}
 						</div>
