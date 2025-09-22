@@ -128,6 +128,10 @@ const navConfig: navItem[] = [
 		link: "/projects/",
 	},
 	{
+		text: "Notes",
+		link: "/projects/",
+	},
+	{
 		text: "Blog",
 		link: "/blog/",
 	},
