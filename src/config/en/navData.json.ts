@@ -11,10 +11,10 @@
 import { type navItem } from "../types/configDataTypes";
 
 const navConfig: navItem[] = [
-	{
-		text: "Overview",
-		link: "/overview/",
-	},
+	// {
+	// 	text: "Overview",
+	// 	link: "/overview/",
+	// },
 
 	// mega menu
 	// {
@@ -127,10 +127,10 @@ const navConfig: navItem[] = [
 		text: "Projects",
 		link: "/projects/",
 	},
-	{
-		text: "Notes",
-		link: "/notes/",
-	},
+	// {
+	// 	text: "Notes",
+	// 	link: "/notes/",
+	// },
 	{
 		text: "Blog",
 		link: "/blog/",
