@@ -1,14 +1,10 @@
 ---
 import Button from "@components/button/Button.astro";
 import { getLocaleFromUrl } from "@js/localeUtils";
-import { useTranslations } from "@js/translationUtils";
 import { Image } from "astro:assets";
 import { Icon } from "astro-icon/components";
 
-import { getLocalizedRoute } from "@/js/translationUtils";
-
 const currLocale = getLocaleFromUrl(Astro.url);
-const t = useTranslations(currLocale);
 ---
 
 <section id="hero-gradient" class="bg-primary-950 dark:bg-base-950">
@@ -53,7 +49,7 @@ const t = useTranslations(currLocale);
 						data-aos-trigger="#hero-gradient"
 						data-aos-duration="1.2"
 					>
-						{t("hero_text")}
+						Hero text
 					</h1>
 					<p
 						class="text-base-400 mb-12 text-xl text-pretty"
@@ -62,7 +58,7 @@ const t = useTranslations(currLocale);
 						data-aos-trigger="#hero-gradient"
 						data-aos-duration="1.2"
 					>
-						{t("hero_description")}
+						Hero description
 					</p>
 
 					<!-- Call to Action Buttons -->
@@ -75,7 +71,7 @@ const t = useTranslations(currLocale);
 					>
 						<Button href="#contact" arrow="right"> Get Started </Button>
 						<Button
-							href={getLocalizedRoute(currLocale, `/projects`)}
+							href={`/projects`}
 							variant="ghost"
 							class="border-border hover:border-primary"
 						>

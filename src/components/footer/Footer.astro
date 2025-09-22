@@ -8,8 +8,6 @@ import { getTranslatedData } from "@js/translationUtils";
 import { type ComponentProps } from "astro/types";
 import { Icon } from "astro-icon/components";
 
-import { getLocalizedRoute } from "@/js/translationUtils";
-
 const currLocale = getLocaleFromUrl(Astro.url);
 const siteData = getTranslatedData("siteData", currLocale);
 
