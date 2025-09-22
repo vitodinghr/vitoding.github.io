@@ -47,6 +47,45 @@
 				"Reduced technical debt by 40% through strategic refactoring",
 				"Implemented agile methodologies improving team productivity"
 			]
+		},
+		{
+			"title": "Technical Lead1",
+			"company": "InnovateLabs",
+			"companyImage": "./index/experience/1/companyImage.png",
+			"dates": "Mar 2019 - Dec 2020",
+			"location": "New York, NY",
+			"responsibilities": [
+				"Managed team of 8 developers across multiple projects",
+				"Established coding standards and best practices",
+				"Reduced technical debt by 40% through strategic refactoring",
+				"Implemented agile methodologies improving team productivity"
+			]
+		},
+		{
+			"title": "Technical Lead2",
+			"company": "InnovateLabs",
+			"companyImage": "./index/experience/1/companyImage.png",
+			"dates": "Mar 2019 - Dec 2020",
+			"location": "New York, NY",
+			"responsibilities": [
+				"Managed team of 8 developers across multiple projects",
+				"Established coding standards and best practices",
+				"Reduced technical debt by 40% through strategic refactoring",
+				"Implemented agile methodologies improving team productivity"
+			]
+		},
+		{
+			"title": "Technical Lead3",
+			"company": "InnovateLabs",
+			"companyImage": "./index/experience/1/companyImage.png",
+			"dates": "Mar 2019 - Dec 2020",
+			"location": "New York, NY",
+			"responsibilities": [
+				"Managed team of 8 developers across multiple projects",
+				"Established coding standards and best practices",
+				"Reduced technical debt by 40% through strategic refactoring",
+				"Implemented agile methodologies improving team productivity"
+			]
 		}
 	],
 	"hardSkills": [
