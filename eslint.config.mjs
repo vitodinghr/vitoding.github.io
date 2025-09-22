@@ -68,11 +68,13 @@ export default defineConfig([
 	{
 		ignores: [
 			"dist/**",
+			".vercel/**",
 			"**/*.d.ts",
 			".tours/",
 			"src/docs/scripts/**",
 			"scripts/",
 			"public/pagefind/",
+			"public/pagefind/**",
 			".github/",
 			".netlify/",
 			".changeset/",

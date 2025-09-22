@@ -1,0 +1,5 @@
+dist/
+.vercel/
+public/pagefind/
+public/pagefind/**
+node_modules/

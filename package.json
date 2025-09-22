@@ -4,8 +4,11 @@
 	"version": "1.2.1",
 	"scripts": {
 		"dev": "astro dev",
+		"winsearch": "robocopy dist/pagefind public/pagefind/E",
+		"osxsearch": "cp -r dist/pagefind public/",
 		"start": "astro dev",
 		"build": "astro build",
+		"postbuild": "pagefind --source dist",
 		"preview": "astro preview",
 		"astro": "astro",
 		"config-i18n": "node ./scripts/config-i18n.js",
@@ -41,6 +44,7 @@
 	"devDependencies": {
 		"@astrojs/vercel": "^8.2.7",
 		"@eslint/js": "9.26.0",
+		"@pagefind/default-ui": "^1.4.0",
 		"@playform/compress": "0.1.9",
 		"@types/animejs": "3.1.12",
 		"eslint": "9.26.0",
@@ -51,6 +55,7 @@
 		"globals": "16.1.0",
 		"lodash.debounce": "4.0.8",
 		"lodash.throttle": "4.1.1",
+		"pagefind": "^1.4.0",
 		"prettier-plugin-astro": "0.14.1",
 		"prettier-plugin-tailwindcss": "0.6.11",
 		"typescript-eslint": "8.32.0"
