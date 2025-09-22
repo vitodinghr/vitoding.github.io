@@ -7,12 +7,22 @@
  * * Data file configuration for the i18n system
  * Every {Data} key must exist in the below object
  */
+import testimonialDataFr from "./fr/testimonialData.json";
+import siteDataFr from "./fr/siteData.json";
+import navDataFr from "./fr/navData.json";
+import faqDataFr from "./fr/faqData.json";
 import faqDataEn from "./en/faqData.json";
 import navDataEn from "./en/navData.json";
 import siteDataEn from "./en/siteData.json";
 import testimonialDataEn from "./en/testimonialData.json";
 
 export const dataTranslations = {
+  fr: {
+    faqData: faqDataFr,
+    navData: navDataFr,
+    siteData: siteDataFr,
+    testimonialData: testimonialDataFr,
+  },
 	en: {
 		siteData: siteDataEn,
 		navData: navDataEn,
@@ -38,6 +48,13 @@ export const dataTranslations = {
  * ```
  */
 export const textTranslations = {
+  fr: {
+		hero_text: "Crafting Digital Experiences",
+		hero_description: `Transforming ideas into beautiful, functional designs that leave lasting impressions.`,
+		back_to_all_posts: "Back to all posts",
+		updated: "Updated",
+		share_this_article: "Share this article",
+	},
 	en: {
 		hero_text: "Crafting Digital Experiences",
 		hero_description: `Transforming ideas into beautiful, functional designs that leave lasting impressions.`,
@@ -58,6 +75,14 @@ export const textTranslations = {
  * Or if this is "atlas.com/blog/my-post", the route would be "blog/my-post"
  */
 export const routeTranslations = {
+  fr: {
+		overviewKey: "overview",
+		categoryKey: "categories",
+		categoryKey2: "categories/*",
+		categoryKey3: "categories",
+		blogKey: "blog",
+		projectsKey: "projects",
+	},
 	en: {
 		overviewKey: "overview",
 		categoryKey: "categories",
@@ -81,10 +106,12 @@ export const routeTranslations = {
  */
 export const localizedCollections = {
 	blog: {
-		en: "blog"
+		en: "blog",
+		fr: "blog"
 	},
 	projects: {
-		en: "projects"
+		en: "projects",
+		fr: "projects"
 	},
 	// Add more collections/locales as needed
 } as const;
