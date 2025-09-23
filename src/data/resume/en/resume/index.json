@@ -28,7 +28,7 @@
 			"company": "AiFashion",
 			"companyImage": "./index/experience/0/companyImage.png",
 			"dates": "Apr 2024 - Present",
-			"location": "Hong Kong",
+			"location": "Hong Kong SAR",
 			"responsibilities": [
 				"Initiative & funding stewardship: Proactively identified the Hong Kong Government Innovation and Technology Fund (ITF) opportunity; worked with corporate sponsor FashionTech to prepare and submit the application; helped secure HKD 5 - 6M and managed the project end-to-end with 100% sponsor fund disbursement and on-time reporting.",
 				"Academia-industry delivery: Turned Computer Vision (CV) / Machine Learning (ML) research into engineered outputs; assist in completing prototype design and ship two Minimum Viable Products (MVPs); achieved pilot readiness with designers and tailors.",
@@ -38,29 +38,23 @@
 			]
 		},
 		{
-			"title": "Technical Lead",
-			"company": "InnovateLabs",
+			"title": "Project Manager",
+			"company": "Tianjin MinDaWanJia Machinery, Ltd",
 			"companyImage": "./index/experience/1/companyImage.png",
-			"dates": "Mar 2019 - Dec 2020",
-			"location": "New York, NY",
+			"dates": "Aug 2017 - Aug 2019",
+			"location": "Tianjin, China",
 			"responsibilities": [
-				"Managed team of 8 developers across multiple projects",
-				"Established coding standards and best practices",
-				"Reduced technical debt by 40% through strategic refactoring",
-				"Implemented agile methodologies improving team productivity"
+				"Led business development with key clients (e.g., Misumi Japan, Great Wall Motors), expanded sales channels, and coordinated with investors, boosting growth and market presence."
 			]
 		},
 		{
-			"title": "Technical Lead1",
-			"company": "InnovateLabs",
+			"title": "Auditor",
+			"company": "PricewaterhouseCoopers (PwC)",
 			"companyImage": "./index/experience/1/companyImage.png",
-			"dates": "Mar 2019 - Dec 2020",
-			"location": "New York, NY",
+			"dates": "Sep 2016 - Jul 2017",
+			"location": "Guangzhou, China",
 			"responsibilities": [
-				"Managed team of 8 developers across multiple projects",
-				"Established coding standards and best practices",
-				"Reduced technical debt by 40% through strategic refactoring",
-				"Implemented agile methodologies improving team productivity"
+				"Completed 30+ working papers for Coca-Cola parent & 10+ subsidiaries. Identified control weaknesses and recommended measures to enhance compliance efficiency."
 			]
 		},
 		{
