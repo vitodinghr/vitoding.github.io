@@ -24,16 +24,17 @@
 	],
 	"experience": [
 		{
-			"title": "Cross-functional Project Manager for an academia-industry AI fashion platform (PolyU × FashionTech)",
-			"company": "TechCorp",
+			"title": "Cross-functional Project Manager for an AI fashion platform (PolyU × FashionTech)",
+			"company": "AiFashion",
 			"companyImage": "./index/experience/0/companyImage.png",
-			"dates": "Jan 2021 - Present",
-			"location": "San Francisco, CA",
+			"dates": "Apr 2024 - Present",
+			"location": "Hong Kong",
 			"responsibilities": [
-				"Led development of microservices architecture",
-				"Mentored junior developers and conducted code reviews",
-				"Implemented CI/CD pipelines reducing deployment time by 50%",
-				"Architected scalable cloud solutions using AWS"
+				"Initiative & funding stewardship: Proactively identified the Hong Kong Government Innovation and Technology Fund (ITF) opportunity; worked with corporate sponsor FashionTech to prepare and submit the application; helped secure HKD 5 - 6M and managed the project end-to-end with 100% sponsor fund disbursement and on-time reporting.",
+				"Academia-industry delivery: Turned Computer Vision (CV) / Machine Learning (ML) research into engineered outputs; assist in completing prototype design and ship two Minimum Viable Products (MVPs); achieved pilot readiness with designers and tailors.",
+				"Leadership & execution: Lead a 15-person cross-functional team (CV/ML, Apple iOS, web, 3D, User Experience (UX)); set Objectives and Key Results (OKRs) and roadmap; remove blockers and released on schedule.",
+				"Technical rigor: Built Machine Learning Operations (MLOps) and Continuous Integration / Continuous Delivery (CI/CD); defined data/annotation standards and evaluation metrics; continuously reduce error and latency.",
+				"Product loop & governance: Authored Product Requirements Documents (PRDs) and user stories; run usability tests with designers/tailors; prioritized backlog from interviews; coordinated design-to-manufacturing hand-offs; align Intellectual Property (IP), privacy compliance to reduce delivery risk."
 			]
 		},
 		{
