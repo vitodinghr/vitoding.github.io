@@ -58,29 +58,33 @@
 			]
 		},
 		{
-			"title": "Technical Lead2",
-			"company": "InnovateLabs",
+			"title": "Research Analyst Assistant (Internship)",
+			"company": "Roland Berger Enterprise Management, Ltd.",
 			"companyImage": "./index/experience/1/companyImage.png",
-			"dates": "Mar 2019 - Dec 2020",
-			"location": "New York, NY",
+			"dates": "Jun 2015 - Aug 2015",
+			"location": "Shanghai, China",
 			"responsibilities": [
-				"Managed team of 8 developers across multiple projects",
-				"Established coding standards and best practices",
-				"Reduced technical debt by 40% through strategic refactoring",
-				"Implemented agile methodologies improving team productivity"
+				"Conducted market analysis on medical aesthetics and consumer electronics, delivering insights for client reports and supporting proposals for Fortune 500 clients."
 			]
 		},
 		{
-			"title": "Technical Lead3",
-			"company": "InnovateLabs",
+			"title": "Assistant PM - Alternative Investment Department (Internship)",
+			"company": "E Fund Asset Management, Ltd.",
 			"companyImage": "./index/experience/1/companyImage.png",
-			"dates": "Mar 2019 - Dec 2020",
-			"location": "New York, NY",
+			"dates": "Oct 2014 - Dec 2014",
+			"location": "Guangzhou, China",
 			"responsibilities": [
-				"Managed team of 8 developers across multiple projects",
-				"Established coding standards and best practices",
-				"Reduced technical debt by 40% through strategic refactoring",
-				"Implemented agile methodologies improving team productivity"
+				"Supported 20+ alternative investment deals through product design support and due diligence. Authored sector briefs informing allocations across RMB 10M+ portfolios."
+			]
+		},
+		{
+			"title": "Assistant Manager (Internship)",
+			"company": "China Everbright Bank, Ltd.",
+			"companyImage": "./index/experience/1/companyImage.png",
+			"dates": "Nov 2013 - Jan 2014",
+			"location": "Guangzhou, China",
+			"responsibilities": [
+				"Developed an innovative MATLAB-based image recognition program to screen 30,000+ identity photos with 99.9% accuracy, boosting departmental efficiency by 50%."
 			]
 		}
 	],
