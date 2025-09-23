@@ -1,14 +1,19 @@
 {
 	"diplomas": [
 		{
-			"title": "Master's in Computer Science",
-			"school": "Stanford University",
+			"title": "PhD in Smart Manufacturing",
+			"school": "The University of Hong Kong",
+			"year": 2025
+		},
+		{
+			"title": "M.Sc. in Industrial Engineering & Logistics Management",
+			"school": "The University of Hong Kong",
 			"year": 2020
 		},
 		{
-			"title": "Bachelor's in Software Engineering",
-			"school": "MIT",
-			"year": 2018
+			"title": "B.Sc. in Mathematics & Applied Mathematics | Second Major: Business Administration",
+			"school": "Sun Yat-sen University",
+			"year": 2016
 		}
 	],
 	"certifications": [
