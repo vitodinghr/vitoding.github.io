@@ -86,19 +86,49 @@
 			"responsibilities": [
 				"Developed an innovative MATLAB-based image recognition program to screen 30,000+ identity photos with 99.9% accuracy, boosting departmental efficiency by 50%."
 			]
+		},
+		{
+			"title": "Founder",
+			"company": "Yat-sen League of Elites",
+			"companyImage": "./index/experience/1/companyImage.png",
+			"dates": "Apr 2016 - Jul 2017",
+			"location": "Guangzhou, China",
+			"responsibilities": [
+				"Founded a professional network with 500+ members, hosting 100+ events and 50+ career-sharing sessions, connecting elites across finance and tech in the Greater Bay Area."
+			]
+		},
+		{
+			"title": "President",
+			"company": "PricewaterhouseCoopers LEAP Club (Guangzhou)",
+			"companyImage": "./index/experience/1/companyImage.png",
+			"dates": "Oct 2014 - Sep 2015",
+			"location": "Guangzhou, China",
+			"responsibilities": [
+				"Selected from 831 candidates for a 60-member LEAP Club, later elected president (1/60). Led talent initiatives and received professional leadership training."
+			]
+		},
+		{
+			"title": "President",
+			"company": "Student Union, School of Mathematics, SYSU",
+			"companyImage": "./index/experience/1/companyImage.png",
+			"dates": "Jun 2013 - Jun 2014",
+			"location": "Guangzhou, China",
+			"responsibilities": [
+				"Led the student body and organized 10+ academic and cultural events."
+			]
 		}
 	],
 	"hardSkills": [
 		{
-			"skill": "JavaScript",
+			"skill": "Matlab",
 			"percentage": 95
 		},
 		{
-			"skill": "TypeScript",
+			"skill": "Python",
 			"percentage": 90
 		},
 		{
-			"skill": "React",
+			"skill": "R",
 			"percentage": 92
 		}
 	],
@@ -118,15 +148,15 @@
 	],
 	"languages": [
 		{
-			"language": "English",
+			"language": "Mandarin",
 			"level": 10
 		},
 		{
-			"language": "Spanish",
+			"language": "English",
 			"level": 8
 		},
 		{
-			"language": "French",
+			"language": "Cantonese",
 			"level": 6
 		}
 	],
