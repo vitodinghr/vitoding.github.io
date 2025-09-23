@@ -50,7 +50,7 @@
 		{
 			"title": "Auditor",
 			"company": "PricewaterhouseCoopers (PwC)",
-			"companyImage": "./index/experience/companyImage.png",
+			"companyImage": "./index/experience/PwC-logo.png",
 			"dates": "Sep 2016 - Jul 2017",
 			"location": "Guangzhou, China",
 			"responsibilities": [
@@ -60,7 +60,7 @@
 		{
 			"title": "Research Analyst Assistant (Internship)",
 			"company": "Roland Berger Enterprise Management, Ltd.",
-			"companyImage": "./index/experience/companyImage.png",
+			"companyImage": "./index/experience/RB-logo.png",
 			"dates": "Jun 2015 - Aug 2015",
 			"location": "Shanghai, China",
 			"responsibilities": [
@@ -70,7 +70,7 @@
 		{
 			"title": "Assistant PM - Alternative Investment Department (Internship)",
 			"company": "E Fund Asset Management, Ltd.",
-			"companyImage": "./index/experience/companyImage.png",
+			"companyImage": "./index/experience/EF-logo.jfif",
 			"dates": "Oct 2014 - Dec 2014",
 			"location": "Guangzhou, China",
 			"responsibilities": [
@@ -80,7 +80,7 @@
 		{
 			"title": "Assistant Manager (Internship)",
 			"company": "China Everbright Bank, Ltd.",
-			"companyImage": "./index/experience/companyImage.png",
+			"companyImage": "./index/experience/china-everbright-bank-logo.png",
 			"dates": "Nov 2013 - Jan 2014",
 			"location": "Guangzhou, China",
 			"responsibilities": [
@@ -90,7 +90,7 @@
 		{
 			"title": "Founder",
 			"company": "Yat-sen League of Elites",
-			"companyImage": "./index/experience/companyImage.png",
+			"companyImage": "./index/experience/YSLE-logo.png",
 			"dates": "Apr 2016 - Jul 2017",
 			"location": "Guangzhou, China",
 			"responsibilities": [
@@ -100,7 +100,7 @@
 		{
 			"title": "President",
 			"company": "PricewaterhouseCoopers LEAP Club (Guangzhou)",
-			"companyImage": "./index/experience/companyImage.png",
+			"companyImage": "./index/experience/PwC-logo.png",
 			"dates": "Oct 2014 - Sep 2015",
 			"location": "Guangzhou, China",
 			"responsibilities": [
@@ -110,7 +110,7 @@
 		{
 			"title": "President",
 			"company": "Student Union, School of Mathematics, SYSU",
-			"companyImage": "./index/experience/companyImage.png",
+			"companyImage": "./index/experience/SYSU-logo.png",
 			"dates": "Jun 2013 - Jun 2014",
 			"location": "Guangzhou, China",
 			"responsibilities": [
