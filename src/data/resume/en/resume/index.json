@@ -26,7 +26,7 @@
 		{
 			"title": "Project Manager for an AI fashion platform",
 			"company": "AiFashion",
-			"companyImage": "./index/experience/0/companyImage.png",
+			"companyImage": "./index/experience/companyImage1.png",
 			"dates": "Apr 2024 - Present",
 			"location": "Hong Kong SAR",
 			"responsibilities": [
@@ -40,7 +40,7 @@
 		{
 			"title": "Project Manager",
 			"company": "Tianjin MinDaWanJia Machinery, Ltd",
-			"companyImage": "./index/experience/1/companyImage.png",
+			"companyImage": "./index/experience/companyImage.png",
 			"dates": "Aug 2017 - Aug 2019",
 			"location": "Tianjin, China",
 			"responsibilities": [
@@ -50,7 +50,7 @@
 		{
 			"title": "Auditor",
 			"company": "PricewaterhouseCoopers (PwC)",
-			"companyImage": "./index/experience/1/companyImage.png",
+			"companyImage": "./index/experience/companyImage.png",
 			"dates": "Sep 2016 - Jul 2017",
 			"location": "Guangzhou, China",
 			"responsibilities": [
@@ -60,7 +60,7 @@
 		{
 			"title": "Research Analyst Assistant (Internship)",
 			"company": "Roland Berger Enterprise Management, Ltd.",
-			"companyImage": "./index/experience/1/companyImage.png",
+			"companyImage": "./index/experience/companyImage.png",
 			"dates": "Jun 2015 - Aug 2015",
 			"location": "Shanghai, China",
 			"responsibilities": [
@@ -70,7 +70,7 @@
 		{
 			"title": "Assistant PM - Alternative Investment Department (Internship)",
 			"company": "E Fund Asset Management, Ltd.",
-			"companyImage": "./index/experience/1/companyImage.png",
+			"companyImage": "./index/experience/companyImage.png",
 			"dates": "Oct 2014 - Dec 2014",
 			"location": "Guangzhou, China",
 			"responsibilities": [
@@ -80,7 +80,7 @@
 		{
 			"title": "Assistant Manager (Internship)",
 			"company": "China Everbright Bank, Ltd.",
-			"companyImage": "./index/experience/1/companyImage.png",
+			"companyImage": "./index/experience/companyImage.png",
 			"dates": "Nov 2013 - Jan 2014",
 			"location": "Guangzhou, China",
 			"responsibilities": [
@@ -90,7 +90,7 @@
 		{
 			"title": "Founder",
 			"company": "Yat-sen League of Elites",
-			"companyImage": "./index/experience/1/companyImage.png",
+			"companyImage": "./index/experience/companyImage.png",
 			"dates": "Apr 2016 - Jul 2017",
 			"location": "Guangzhou, China",
 			"responsibilities": [
@@ -100,7 +100,7 @@
 		{
 			"title": "President",
 			"company": "PricewaterhouseCoopers LEAP Club (Guangzhou)",
-			"companyImage": "./index/experience/1/companyImage.png",
+			"companyImage": "./index/experience/companyImage.png",
 			"dates": "Oct 2014 - Sep 2015",
 			"location": "Guangzhou, China",
 			"responsibilities": [
@@ -110,7 +110,7 @@
 		{
 			"title": "President",
 			"company": "Student Union, School of Mathematics, SYSU",
-			"companyImage": "./index/experience/1/companyImage.png",
+			"companyImage": "./index/experience/companyImage.png",
 			"dates": "Jun 2013 - Jun 2014",
 			"location": "Guangzhou, China",
 			"responsibilities": [
