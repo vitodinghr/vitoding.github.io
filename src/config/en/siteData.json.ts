@@ -5,13 +5,13 @@ const siteData: SiteDataProps = {
 	name: "VITODING",
 	// Your website's title and description (meta fields)
 	title:
-		"VitoDing - Seek truth from facts",
+		"VITODING - Emancipate the Mind",
 	description:
 		"A website for Vito's personal use, showcasing his research and exploration of technology, business and investment.",
 
 	// Your information for blog post purposes
 	author: {
-		name: "Vito DING",
+		name: "Vito",
 		email: "haoran.ding@yahoo.com",
 		twitter: "Cosmic_Themes",
 	},
